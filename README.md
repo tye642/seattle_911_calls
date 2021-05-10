@@ -1,6 +1,7 @@
 # Seattle Fire 911 Calls
 
 * Dataset is from https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj
+* PowerBI file is in the notebook folder
 * Please see the PDF for a snapshot of the report.
 * First slide is the Count of type of calls and address location with slicers for the year and hour. 
 * Second slide shows a map along with the type of call, same slicers for year and hour.
